@@ -1,0 +1,1 @@
+this is test document. I want to write commit message with vim. But I saw that You have to install to use it. So, I don't know what I use now.
